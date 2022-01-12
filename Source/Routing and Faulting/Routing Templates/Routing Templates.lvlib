@@ -12,4 +12,14 @@
 			<Item Name="2010 Connection Lookup.lvclass" Type="LVClass" URL="../Connection Lookups/2010 Connection Lookup/2010 Connection Lookup.lvclass"/>
 		</Item>
 	</Item>
+	<Item Name="Routing Channel Templates" Type="Folder">
+		<Item Name="Abstract Routing Channel Template" Type="Folder">
+			<Item Name="Abstract Routing Channel Template.lvclass" Type="LVClass" URL="../Routing Channel Templates/Abstract Routing Channel Template/Abstract Routing Channel Template.lvclass"/>
+		</Item>
+		<Item Name="Concrete Routing Channel Templates" Type="Folder">
+			<Item Name="JSON Routing Channel Template" Type="Folder">
+				<Item Name="JSON Routing Channel Template.lvclass" Type="LVClass" URL="../Routing Channel Templates/JSON Routing Channel Template/JSON Routing Channel Template.lvclass"/>
+			</Item>
+		</Item>
+	</Item>
 </Library>

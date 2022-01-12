@@ -10,5 +10,9 @@
 		<Item Name="2010 Connection Lookup Tests.vi" Type="VI" URL="../2010 Connection Lookup Tests.vi"/>
 		<Item Name="test_Get Channel Connection (2010).vi" Type="VI" URL="../test_Get Channel Connection (2010).vi"/>
 	</Item>
+	<Item Name="JSON Routing Channel Template" Type="Folder">
+		<Item Name="JSON Routing Channel Template Tests.vi" Type="VI" URL="../JSON Routing Channel Template Tests.vi"/>
+		<Item Name="test_Create (JSON RCT).vi" Type="VI" URL="../test_Create (JSON RCT).vi"/>
+	</Item>
 	<Item Name="Routing Templates Test Suite.vi" Type="VI" URL="../Routing Templates Test Suite.vi"/>
 </Library>
