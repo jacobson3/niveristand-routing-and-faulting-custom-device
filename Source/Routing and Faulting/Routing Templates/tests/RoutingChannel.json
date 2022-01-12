@@ -1,0 +1,42 @@
+{
+    "Routing Channel Name": "discrete digital",
+    "Module": "SLSC-2010",
+    "State Configurations": [
+        {
+            "Name": "No Connection",
+            "Description": "Default state with nothing connected",
+            "Value": -1,
+            "Connection List": []
+        },
+        {
+            "Name": "Passthrough",
+            "Description": "This state is a passthrough of all channels",
+            "Value": 0,
+            "Connection List": [
+                {
+                    "Channel": "DI+",
+                    "Connection Type": "Passthrough"
+                },
+                {
+                    "Channel": "DI-",
+                    "Connection Type": "Passthrough"
+                }
+            ]
+        },
+        {
+            "Name": "Real-Sim",
+            "Description": "Connect J1 to J2 pins",
+            "Value": 1,
+            "Connection List": [
+                {
+                    "Channel": "DI+",
+                    "Connection Type": "Real-Sim"
+                },
+                {
+                    "Channel": "DI-",
+                    "Connection Type": "Real-Sim"
+                }
+            ]
+        }
+    ]
+}
