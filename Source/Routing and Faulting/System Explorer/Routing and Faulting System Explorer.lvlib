@@ -22,8 +22,10 @@
 				<Item Name="Routing Channels Page.vi" Type="VI" URL="../Routing Channels Page.vi"/>
 			</Item>
 			<Item Name="RTM" Type="Folder">
+				<Property Name="NI.SortType" Type="Int">3</Property>
 				<Item Name="Add Routing Channel RTM.vi" Type="VI" URL="../Add Routing Channel RTM.vi"/>
 				<Item Name="Duplicate Routing Channel RTM.vi" Type="VI" URL="../Duplicate Routing Channel RTM.vi"/>
+				<Item Name="Add Routing Channel (Template) RTM.vi" Type="VI" URL="../Add Routing Channel (Template) RTM.vi"/>
 				<Item Name="Enable Disable Routing Channel RTM.vi" Type="VI" URL="../Enable Disable Routing Channel RTM.vi"/>
 				<Item Name="Export Configuration RTM.vi" Type="VI" URL="../Export Configuration RTM.vi"/>
 				<Item Name="Import Configuration RTM.vi" Type="VI" URL="../Import Configuration RTM.vi"/>
@@ -46,6 +48,7 @@
 			<Item Name="Compile Routing Channels.vi" Type="VI" URL="../Compile Routing Channels.vi"/>
 			<Item Name="Compile Status Channels FIFO Indices.vi" Type="VI" URL="../Compile Status Channels FIFO Indices.vi"/>
 			<Item Name="Configure Connection Dialog.vi" Type="VI" URL="../Configure Connection Dialog.vi"/>
+			<Item Name="Configure Template.vi" Type="VI" URL="../Configure Template.vi"/>
 			<Item Name="Convert Connections to UI Connections.vi" Type="VI" URL="../Convert Connections to UI Connections.vi"/>
 			<Item Name="Convert Endpoint String to Endpoint.vi" Type="VI" URL="../Convert Endpoint String to Endpoint.vi"/>
 			<Item Name="Convert Endpoint to Endpoint String.vi" Type="VI" URL="../Convert Endpoint to Endpoint String.vi"/>
