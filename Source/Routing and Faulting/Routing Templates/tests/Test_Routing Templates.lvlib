@@ -12,6 +12,7 @@
 	</Item>
 	<Item Name="JSON Routing Channel Template" Type="Folder">
 		<Item Name="JSON Routing Channel Template Tests.vi" Type="VI" URL="../JSON Routing Channel Template Tests.vi"/>
+		<Item Name="test_Are All Channels Defined.vi" Type="VI" URL="../test_Are All Channels Defined.vi"/>
 		<Item Name="test_Channels to Define (JSON RCT).vi" Type="VI" URL="../test_Channels to Define (JSON RCT).vi"/>
 		<Item Name="test_Create (JSON RCT).vi" Type="VI" URL="../test_Create (JSON RCT).vi"/>
 	</Item>
