@@ -91,6 +91,7 @@
 			<Item Name="Initialize Routing Channel Page (State-Value Table).vi" Type="VI" URL="../Initialize Routing Channel Page (State-Value Table).vi"/>
 			<Item Name="Initialize Routing Channel Page.vi" Type="VI" URL="../Initialize Routing Channel Page.vi"/>
 			<Item Name="Load Help File.vi" Type="VI" URL="../Load Help File.vi"/>
+			<Item Name="Load JSON Templates.vi" Type="VI" URL="../Load JSON Templates.vi"/>
 			<Item Name="Normalize Connection String.vi" Type="VI" URL="../Normalize Connection String.vi"/>
 			<Item Name="Parse Endpoint.vi" Type="VI" URL="../Parse Endpoint.vi"/>
 			<Item Name="Populate Connection Destination List.vi" Type="VI" URL="../Populate Connection Destination List.vi"/>

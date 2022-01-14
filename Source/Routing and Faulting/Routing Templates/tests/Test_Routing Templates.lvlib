@@ -15,6 +15,7 @@
 		<Item Name="test_Are All Channels Defined.vi" Type="VI" URL="../test_Are All Channels Defined.vi"/>
 		<Item Name="test_Channels to Define (JSON RCT).vi" Type="VI" URL="../test_Channels to Define (JSON RCT).vi"/>
 		<Item Name="test_Create (JSON RCT).vi" Type="VI" URL="../test_Create (JSON RCT).vi"/>
+		<Item Name="test_Generate State Information (JSON RCT).vi" Type="VI" URL="../test_Generate State Information (JSON RCT).vi"/>
 	</Item>
 	<Item Name="Routing Templates Test Suite.vi" Type="VI" URL="../Routing Templates Test Suite.vi"/>
 </Library>
