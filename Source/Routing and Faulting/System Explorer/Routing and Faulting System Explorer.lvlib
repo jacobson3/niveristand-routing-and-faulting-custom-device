@@ -56,6 +56,8 @@
 			<Item Name="Convert UI Connection to Connection (Module,Source,Destinaton).vi" Type="VI" URL="../Convert UI Connection to Connection (Module,Source,Destinaton).vi"/>
 			<Item Name="Create Alias and Endpoint List.vi" Type="VI" URL="../Create Alias and Endpoint List.vi"/>
 			<Item Name="Enable Disable Routing Channel.vi" Type="VI" URL="../Enable Disable Routing Channel.vi"/>
+			<Item Name="Find Differential Pair.vi" Type="VI" URL="../Find Differential Pair.vi"/>
+			<Item Name="Find Source Change.vi" Type="VI" URL="../Find Source Change.vi"/>
 			<Item Name="Fix Custom Device Order.vi" Type="VI" URL="../Fix Custom Device Order.vi"/>
 			<Item Name="Form Endpoint.vi" Type="VI" URL="../Form Endpoint.vi"/>
 			<Item Name="Form Monotonically Increasing Name.vi" Type="VI" URL="../Form Monotonically Increasing Name.vi"/>
@@ -92,6 +94,7 @@
 			<Item Name="Initialize Routing Channel Page.vi" Type="VI" URL="../Initialize Routing Channel Page.vi"/>
 			<Item Name="Load Help File.vi" Type="VI" URL="../Load Help File.vi"/>
 			<Item Name="Load JSON Templates.vi" Type="VI" URL="../Load JSON Templates.vi"/>
+			<Item Name="Map Differential Pair.vi" Type="VI" URL="../Map Differential Pair.vi"/>
 			<Item Name="Normalize Connection String.vi" Type="VI" URL="../Normalize Connection String.vi"/>
 			<Item Name="Parse Endpoint.vi" Type="VI" URL="../Parse Endpoint.vi"/>
 			<Item Name="Populate Connection Destination List.vi" Type="VI" URL="../Populate Connection Destination List.vi"/>
